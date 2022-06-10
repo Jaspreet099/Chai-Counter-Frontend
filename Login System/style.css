@@ -1,0 +1,62 @@
+.login {
+    border: 9px solid #20262F;
+    border-radius: 10px;
+    /* width: 446px;
+    height: 474px;
+    */
+}
+
+.head{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+color: #292C31;
+/* background-color: aliceblue; */
+
+/* line-height: 40px; */
+}
+
+.Uname{
+background: #FFFFFF;
+padding: 16px;
+width: 360px;
+height: 64px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+border: 3px solid #000000;
+border-radius: 8px;
+}
+
+.Holder{
+    display: grid;
+    grid-template-columns: auto;
+    align-items: center;
+}
+
+.btn{
+background: #ECF0F3;
+border: 3px solid #0D0E10;
+border-radius: 12px;
+padding: 12px 20px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+}
+.btn:hover{
+    box-shadow: 0px 9px 0px #0D0E10;
+    transition: 300ms ease-in-out;
+}
+
+.text{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+}
+.text a{
+    text-decoration: underline;
+}
